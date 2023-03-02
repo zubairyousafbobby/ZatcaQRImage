@@ -1,0 +1,27 @@
+{
+  "name": "zatcaqrimage",
+  "version": "1.0.0",
+  "description": "Zatca QR Image",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubairyousafbobby/ZatcaQRImage.git"
+  },
+  "keywords": [
+    "Zatca"
+  ],
+  "author": "Zubair Yousaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubairyousafbobby/ZatcaQRImage/issues"
+  },
+  "homepage": "https://github.com/zubairyousafbobby/ZatcaQRImage#readme",
+  "dependencies": {
+    "@axenda/zatca": "^1.0.4",
+    "express": "^4.18.2"
+  }
+}
